@@ -1,0 +1,1 @@
+The Arduino code for the temperature logger sensor.
